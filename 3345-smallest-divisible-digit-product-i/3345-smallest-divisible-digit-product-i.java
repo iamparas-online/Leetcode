@@ -4,10 +4,10 @@ class Solution {
             return t;
         }
         
-        int prod=1;
+       // int prod=1;
         for(int i=0;i<10;i++){
             int a=n;
-            prod=1;
+            int prod=1;
         while(a!=0){
             int b=a%10;
             prod=prod*b;
