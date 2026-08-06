@@ -7,4 +7,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/iamparas-online/Leetcode/tree/master/0009-palindrome-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/iamparas-online/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/iamparas-online/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
