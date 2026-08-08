@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/iamparas-online/Leetcode/tree/master/0136-single-number) |
 | [0845-longest-mountain-in-array](https://github.com/iamparas-online/Leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Two Pointers
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iamparas-online/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/iamparas-online/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
