@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/iamparas-online/Leetcode/tree/master/0136-single-number) |
 | [0845-longest-mountain-in-array](https://github.com/iamparas-online/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1046-last-stone-weight](https://github.com/iamparas-online/Leetcode/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/iamparas-online/Leetcode/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/iamparas-online/Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
