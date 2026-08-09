@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/iamparas-online/Leetcode/tree/master/0009-palindrome-number) |
+| [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamparas-online/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iamparas-online/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/iamparas-online/Leetcode/tree/master/0136-single-number) |
 | [0845-longest-mountain-in-array](https://github.com/iamparas-online/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1046-last-stone-weight](https://github.com/iamparas-online/Leetcode/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/iamparas-online/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamparas-online/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -63,4 +66,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/iamparas-online/Leetcode/tree/master/1046-last-stone-weight) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
