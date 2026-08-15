@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/iamparas-online/Leetcode/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/iamparas-online/Leetcode/tree/master/0326-power-of-three) |
 | [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/iamparas-online/Leetcode/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamparas-online/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/iamparas-online/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/iamparas-online/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
