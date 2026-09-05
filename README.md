@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/iamparas-online/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/iamparas-online/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/iamparas-online/Leetcode/tree/master/2029-stone-game-ix) |
+| [2485-find-the-pivot-integer](https://github.com/iamparas-online/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamparas-online/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamparas-online/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iamparas-online/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/iamparas-online/Leetcode/tree/master/1872-stone-game-viii) |
+| [2485-find-the-pivot-integer](https://github.com/iamparas-online/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/iamparas-online/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/iamparas-online/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
