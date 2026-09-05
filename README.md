@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/iamparas-online/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1046-last-stone-weight](https://github.com/iamparas-online/Leetcode/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/iamparas-online/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/iamparas-online/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/iamparas-online/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/iamparas-online/Leetcode/tree/master/2029-stone-game-ix) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamparas-online/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/iamparas-online/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamparas-online/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamparas-online/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
