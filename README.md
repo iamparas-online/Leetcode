@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/iamparas-online/Leetcode/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/iamparas-online/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iamparas-online/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1768-merge-strings-alternately](https://github.com/iamparas-online/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/iamparas-online/Leetcode/tree/master/1927-sum-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/iamparas-online/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0845-longest-mountain-in-array](https://github.com/iamparas-online/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/iamparas-online/Leetcode/tree/master/1510-stone-game-iv) |
