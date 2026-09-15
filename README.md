@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/iamparas-online/Leetcode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/iamparas-online/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/iamparas-online/Leetcode/tree/master/0326-power-of-three) |
+| [0836-rectangle-overlap](https://github.com/iamparas-online/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/iamparas-online/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/iamparas-online/Leetcode/tree/master/1563-stone-game-v) |
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamparas-online/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/iamparas-online/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
