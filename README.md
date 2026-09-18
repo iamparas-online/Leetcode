@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/iamparas-online/Leetcode/tree/master/0278-first-bad-version) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamparas-online/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamparas-online/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iamparas-online/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -291,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/iamparas-online/Leetcode/tree/master/0836-rectangle-overlap) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/iamparas-online/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
