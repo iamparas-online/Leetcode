@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/iamparas-online/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/iamparas-online/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/iamparas-online/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [4045-count-robot-groups](https://github.com/iamparas-online/Leetcode/tree/master/4045-count-robot-groups) |
 ## Two Pointers
 |  |
 | ------- |
@@ -317,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/iamparas-online/Leetcode/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [4045-count-robot-groups](https://github.com/iamparas-online/Leetcode/tree/master/4045-count-robot-groups) |
+## Monotonic Stack
+|  |
+| ------- |
+| [4045-count-robot-groups](https://github.com/iamparas-online/Leetcode/tree/master/4045-count-robot-groups) |
 <!---LeetCode Topics End-->
