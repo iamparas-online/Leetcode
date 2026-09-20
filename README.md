@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/iamparas-online/Leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/iamparas-online/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamparas-online/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0835-image-overlap](https://github.com/iamparas-online/Leetcode/tree/master/0835-image-overlap) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/iamparas-online/Leetcode/tree/master/0027-remove-element) |
 | [0845-longest-mountain-in-array](https://github.com/iamparas-online/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1768-merge-strings-alternately](https://github.com/iamparas-online/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamparas-online/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
