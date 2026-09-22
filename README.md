@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/iamparas-online/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iamparas-online/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iamparas-online/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/iamparas-online/Leetcode/tree/master/1927-sum-game) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/iamparas-online/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0835-image-overlap](https://github.com/iamparas-online/Leetcode/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/iamparas-online/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/iamparas-online/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/iamparas-online/Leetcode/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamparas-online/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/iamparas-online/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/iamparas-online/Leetcode/tree/master/0075-sort-colors) |
 | [0845-longest-mountain-in-array](https://github.com/iamparas-online/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/iamparas-online/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/iamparas-online/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamparas-online/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamparas-online/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/iamparas-online/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamparas-online/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/iamparas-online/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/iamparas-online/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iamparas-online/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamparas-online/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -333,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4045-count-robot-groups](https://github.com/iamparas-online/Leetcode/tree/master/4045-count-robot-groups) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/iamparas-online/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
