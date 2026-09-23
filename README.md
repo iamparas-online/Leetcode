@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/iamparas-online/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamparas-online/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0376-wiggle-subsequence](https://github.com/iamparas-online/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0456-132-pattern](https://github.com/iamparas-online/Leetcode/tree/master/0456-132-pattern) |
 | [0835-image-overlap](https://github.com/iamparas-online/Leetcode/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/iamparas-online/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/iamparas-online/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/iamparas-online/Leetcode/tree/master/0456-132-pattern) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/iamparas-online/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Recursion
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/iamparas-online/Leetcode/tree/master/0278-first-bad-version) |
+| [0456-132-pattern](https://github.com/iamparas-online/Leetcode/tree/master/0456-132-pattern) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamparas-online/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamparas-online/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iamparas-online/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -341,11 +344,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/iamparas-online/Leetcode/tree/master/0456-132-pattern) |
 | [0844-backspace-string-compare](https://github.com/iamparas-online/Leetcode/tree/master/0844-backspace-string-compare) |
 | [4045-count-robot-groups](https://github.com/iamparas-online/Leetcode/tree/master/4045-count-robot-groups) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/iamparas-online/Leetcode/tree/master/0456-132-pattern) |
 | [4045-count-robot-groups](https://github.com/iamparas-online/Leetcode/tree/master/4045-count-robot-groups) |
 ## Timsort
 |  |
