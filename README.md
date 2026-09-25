@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iamparas-online/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/iamparas-online/Leetcode/tree/master/0383-ransom-note) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/iamparas-online/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iamparas-online/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/iamparas-online/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/iamparas-online/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/iamparas-online/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamparas-online/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0376-wiggle-subsequence](https://github.com/iamparas-online/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0456-132-pattern](https://github.com/iamparas-online/Leetcode/tree/master/0456-132-pattern) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iamparas-online/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/iamparas-online/Leetcode/tree/master/0383-ransom-note) |
 | [1096-brace-expansion-ii](https://github.com/iamparas-online/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamparas-online/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/iamparas-online/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/iamparas-online/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamparas-online/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/iamparas-online/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/iamparas-online/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iamparas-online/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamparas-online/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamparas-online/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
@@ -385,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamparas-online/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/iamparas-online/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
