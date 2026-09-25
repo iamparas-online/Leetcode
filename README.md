@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/iamparas-online/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1046-last-stone-weight](https://github.com/iamparas-online/Leetcode/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/1140-stone-game-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamparas-online/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamparas-online/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/iamparas-online/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/iamparas-online/Leetcode/tree/master/1563-stone-game-v) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/iamparas-online/Leetcode/tree/master/0383-ransom-note) |
 | [1096-brace-expansion-ii](https://github.com/iamparas-online/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamparas-online/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamparas-online/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iamparas-online/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iamparas-online/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/iamparas-online/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/iamparas-online/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1096-brace-expansion-ii](https://github.com/iamparas-online/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamparas-online/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/iamparas-online/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iamparas-online/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamparas-online/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamparas-online/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamparas-online/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
