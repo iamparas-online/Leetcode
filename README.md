@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamparas-online/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/iamparas-online/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/iamparas-online/Leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/iamparas-online/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0383-ransom-note](https://github.com/iamparas-online/Leetcode/tree/master/0383-ransom-note) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamparas-online/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/iamparas-online/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/iamparas-online/Leetcode/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/iamparas-online/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0376-wiggle-subsequence](https://github.com/iamparas-online/Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/iamparas-online/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0456-132-pattern](https://github.com/iamparas-online/Leetcode/tree/master/0456-132-pattern) |
 | [0844-backspace-string-compare](https://github.com/iamparas-online/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/iamparas-online/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamparas-online/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/iamparas-online/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamparas-online/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamparas-online/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamparas-online/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
